@@ -1,2 +1,2 @@
 # aula-api-mysql
-Giovanna Rocha
+Giovanna Rocha e Bruna Morais Menezes
